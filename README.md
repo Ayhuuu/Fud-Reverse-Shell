@@ -1,5 +1,5 @@
 ## Setup:
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/s.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/ss.png"></img>
 
 » Reverse shell + Windows Startup
 
