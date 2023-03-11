@@ -26,7 +26,7 @@ nc64.exe -nvlp `Your Port`
 
 » js to exe virustotal result
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/js.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/js.png"></img>
 
 » runs install_python.bat if python is installed
 
@@ -37,10 +37,10 @@ nc64.exe -nvlp `Your Port`
 
 » py to exe virustotal result 
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/python.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/python.png"></img>
 
 » vbs does not need an installation, just double click
 
 » vbs virustotal result 
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/vbs.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/vbs.png"></img>
