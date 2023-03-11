@@ -24,7 +24,7 @@
 
 
 » Copies the file from one place to another: scp C:\Users\Administrator\Downloads\program.exe C:\Users\Administrator\Desktop\program.exe
-```
+```diff
 » Reverse shell + Windows Startup
 
 » Change the 127.0.0.1 ip address in the codes according to yourself
