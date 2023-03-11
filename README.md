@@ -18,3 +18,7 @@
 
 `nc64.exe -nvlp Your Port`
 
+» if you want to exe js code first Install [Node.js](https://nodejs.org/en/download/) 
+
+» when you make exe from js
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/js.png"></img>
