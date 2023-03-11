@@ -1,4 +1,7 @@
 ## Setup:
+
+» Reverse shell + Windows Startup
+
 » Change the 127.0.0.1 ip address in the codes according to yourself
 
 » Change the 4444 port in the codes according to your own
