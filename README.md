@@ -1,7 +1,7 @@
 ## Setup:
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/ss.png"></img>
 
-```diff
+```
 » sample commands
 
 » if you want to know username and file location name type pwd
@@ -24,7 +24,7 @@
 
 
 » Copies the file from one place to another: scp C:\Users\Administrator\Downloads\program.exe C:\Users\Administrator\Desktop\program.exe
-```diff
+```
 » Reverse shell + Windows Startup
 
 » Change the 127.0.0.1 ip address in the codes according to yourself
