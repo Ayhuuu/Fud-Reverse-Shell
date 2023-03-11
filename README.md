@@ -32,6 +32,7 @@ nc64.exe -nvlp `Your Port`
 » runs install_python.bat if python is installed
 
 » to make exe from python
+
 » open cmd and type 
 
 `pyinstaller --onefile --windowed shell.py`
