@@ -36,3 +36,8 @@
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/python.png"></img>
 
+» vbs does not need an installation, just double click
+
+» vbs virustotal result 
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/vbs.png"></img>
