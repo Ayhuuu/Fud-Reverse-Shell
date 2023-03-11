@@ -7,7 +7,7 @@
 » if you want to know username and file location name type pwd
 
 
-» Extract from Zip: Expand-Archive -Path C:\Users\{Username}\Downloads\lol.zip -DestinationPath C:\Users\{Username}\Downloads\3162
+» Extract from Zip: Expand-Archive -Path C:\Users\{Username}\Downloads\file.zip -DestinationPath C:\Users\{Username}\Downloads\file
 
 
 » creates new folder: New-Item -ItemType Directory -Path "C:\Users\{Username}\Downloads\New Folder"
