@@ -20,6 +20,13 @@
 
 » if you want to exe js code first Install [Node.js](https://nodejs.org/en/download/) 
 
-» when you make exe from js
+» to make exe from js `npm install pkg`
+
+`pkg shell.js`
+
+
+» js to exe virustotal result
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/js.png"></img>
+
+» runs install_python.bat if python is installed
