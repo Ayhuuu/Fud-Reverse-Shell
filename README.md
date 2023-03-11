@@ -42,7 +42,7 @@
 
 nc64.exe -nvlp `Your Port`
 
-» if you want to exe js code first Install [Node.js](https://nodejs.org/en/download/) 
+» if you want to js to exe first Install [Node.js](https://nodejs.org/en/download/) 
 
 » to make exe from js 
 
