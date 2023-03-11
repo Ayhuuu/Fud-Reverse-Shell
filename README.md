@@ -18,7 +18,7 @@
 
 » The program downloads: powershell -c "(New-Object System.Net.WebClient).DownloadFile('https://YourDownloadLink/program.exe', 'C:\Users\{Username}\Downloads\Program.exe')"
 
-
+» Reads inside a file: type File.txt
 
 » Runs the program: powershell -c "Start-Process C:\Users\{Username}\Downloads\downloaded_file.exe"
 
