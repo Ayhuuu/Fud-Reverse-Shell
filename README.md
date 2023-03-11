@@ -36,6 +36,7 @@ nc64.exe -nvlp `Your Port`
 » open cmd and type 
 
 `pip insall pyinstaller`
+
 `pyinstaller --onefile --windowed shell.py`
 
 » py to exe virustotal result 
