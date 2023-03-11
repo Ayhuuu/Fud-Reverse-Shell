@@ -10,7 +10,7 @@
 
 » After opening cmd, go to the file location where netcat is located from cmd and type this:
 
-`nc64.exe -nvlp Your Port`
+nc64.exe -nvlp `Your Port`
 
 » if you want to exe js code first Install [Node.js](https://nodejs.org/en/download/) 
 
