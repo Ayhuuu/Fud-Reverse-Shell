@@ -57,7 +57,7 @@ nc64.exe -nvlp `Your Port`
 
 » runs install_python.bat if python is installed
 
-» to make exe from python
+» if you want to py to exe
 
 » open cmd and type 
 
