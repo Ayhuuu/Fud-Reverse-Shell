@@ -8,13 +8,7 @@
 
 » After downloading open cmd as administrator
 
-» After opening cmd, type them in order 
-
-`cd ..` 
-
-`cd netcat-win32-1.11`
-
-`cd netcat-1.11`
+» After opening cmd, go to the file location where netcat is located from cmd and type this:
 
 `nc64.exe -nvlp Your Port`
 
@@ -32,3 +26,5 @@
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/js.png"></img>
 
 » runs install_python.bat if python is installed
+
+» to make exe from python
