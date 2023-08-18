@@ -61,7 +61,7 @@ nc64.exe -nvlp `Your Port`
 
 » open cmd and type 
 
-`pip insall pyinstaller`
+`pip install pyinstaller`
 
 `pyinstaller --onefile --windowed shell.py`
 
